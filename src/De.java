@@ -28,6 +28,7 @@ public class De {
 	 */
 	public De() {
 		initialize();
+		String a = "";
 	}
 
 	/**
