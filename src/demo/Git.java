@@ -9,5 +9,6 @@ public class Git {
         System.out.println("write from github");
         System.out.println("write from local");
 System.out.println("write from github 16:49");
+System.out.println("write from local 16:56");
 	}
 }
