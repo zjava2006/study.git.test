@@ -3,10 +3,6 @@ package demo;
 public class Git {
 
 	public void method() {
-		System.out.println("");
-		
-		
-		
-		
+		System.out.println("master change");
 	}
 }
