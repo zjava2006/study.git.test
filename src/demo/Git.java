@@ -1,9 +1,9 @@
 package demo;
 
 public class Git {
-	
-public void method()
-{
-	System.out.println("");
-}
+
+	public void method() {
+		System.out.println("");
+		
+	}
 }
