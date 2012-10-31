@@ -1,10 +1,8 @@
 package demo;
 
-public class EERER {
+public class EERER 
+{
 	
 	
 	
-	
-	
-
 }
